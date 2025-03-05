@@ -1,27 +1,44 @@
 # Unit Converter 🔥
 
-A simple unit converter web application built using **Python** and **Streamlit**.
+Welcome to the **Unit Converter** web application built with **Python** and **Streamlit** 🚀.
 
-## Features
+## 🌟 Features
 
-- Convert **Meter to Kilometer** and **Kilometer to Meter**
-- Convert **Gram to Kilogram** and **Kilogram to Gram**
-- Interactive and user-friendly interface
+- Convert **Meter ➡ Kilometer** and **Kilometer ➡ Meter**
+- Convert **Gram ➡ Kilogram** and **Kilogram ➡ Gram**
+- User-friendly interface with interactive input fields
+- Instant conversion results
 
-## Technologies Used
+## 🛠️ Technologies Used
 
-- Python
-- Streamlit
+- **Python** 🐍
+- **Streamlit** 💻
 
-## Installation
+## 🎯 Live Demo
+👉 Check out the live version here: [Unit Converter](https://huzaifaunitconverter.streamlit.app/)
 
-Follow these steps to run the project on your local machine:
+## 🔌 Installation
+Follow these simple steps to set up the project on your local machine:
 
-1. **Live Demo:**
-https://huzaifaunitconverter.streamlit.app/ ye 
+1. **Clone the repository:**
+```bash
+git clone https://github.com/Huzaifaabdulrab/Unit_Converter_Python.git
+cd Unit_Converter_Python
+```
 
-2. **Clone the repository:**
-   ```bash
-   git clone https://github.com/Huzaifaabdulrab/Unit_Converter_Python.git
-   cd Unit_Converter_Python
-   ```
+2. **Install Dependencies:**
+```bash
+pip install streamlit
+```
+
+3. **Run the Application:**
+```bash
+streamlit run app.py
+```
+
+✅ Your application will run locally at **http://localhost:8501**.
+
+---
+
+💪 Made with ❤️ by **Huzaifa Abdulrab**
+
